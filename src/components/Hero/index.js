@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from '../../Sidebar';
+import Sidebar from '../Sidebar/index';
 import Navbar from '../Navbar';
 import { HeroContainer, HeroContent, HeroItems, HeroH1, HeroP, HeroBtn } from './HeroElements';
 
